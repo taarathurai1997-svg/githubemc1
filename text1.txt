@@ -1,1 +1,1 @@
-text1 created then modified
+text1 created modified
